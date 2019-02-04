@@ -76,7 +76,7 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 120px 0; }
+  padding: 0px 0; }
   @media (max-width: 991px) {
     .section_gap {
       padding: 80px 0; } }
@@ -2840,6 +2840,11 @@ h6 {
 
   .header_area.white_menu .navbar .nav .nav-item .nav-link {
     color: #222; }
+
+      #color{
+    color: black;
+   }
+  
 
   /* End Main Menu Area css
   ============================================================================================ */ }

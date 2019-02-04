@@ -8382,6 +8382,9 @@ textarea.form-control {
   background-repeat: no-repeat;
   background-position: center center; }
 
+.section_gap{
+  padding: 0px;
+}
 
 
 
@@ -9156,6 +9159,11 @@ textarea.form-control {
   .fa-pinterest-square{
     font-size: 40px;
   }
+
+ /* #text{margin-top:600px;
+   }*/
+
+   
   
 
 
