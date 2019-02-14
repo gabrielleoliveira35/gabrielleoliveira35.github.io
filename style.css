@@ -847,6 +847,10 @@ img {
       font-size: 12px;
       color: #ff9800; }
 
+      .first-img{
+        opacity: .1;
+      }
+
 .slider-range-price {
   position: relative;
   z-index: 1; }
